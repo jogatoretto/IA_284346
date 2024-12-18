@@ -7,11 +7,14 @@ System Requirements
 Ensure your system meets the following requirements:
 
 Python Version: 3.7 or later.
+
 Operating System: Windows, macOS, or Linux.
+
 Required Libraries:
-**pandas**
-**yfinance**
-**prompt_toolkit**
+
+**pandas** , 
+**yfinance** ,
+**prompt_toolkit** ,
 
 **Folder Structure**
 The project folder is structured as follows:
@@ -40,8 +43,11 @@ Select a Stock Ticker:
   
 Choose a Backtesting Period:
   Select one of the three available options:
-    Past Day
+  
+    Past Day 
+    
     Past Week
+    
     Past Month
     
 View Analysis Results:
