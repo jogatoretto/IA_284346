@@ -31,18 +31,30 @@ The project folder is structured as follows:
 Start the Program:
   Run python main.py in the terminal.
   
-Register or Login:
+  Register or Login:
   Register as a new user with your email and a secure password.
   Login to access the main functionalities.
   
 Select a Stock Ticker:
-  Use the drop-down menu to select a company ticker (e.g., 7113.KL for Top Glove).
+  Type the initial letter and choose the drop-down menu to select a company ticker 
+
+•	    Top Glove Corporation Bhd: 7113.KL
+•	    Malayan Banking Berhad (Maybank): 1155.KL
+•	    Public Bank Berhad: 1295.KL
+•	    CIMB Group Holdings Berhad: 1023.KL
+•	    Petronas Chemicals Group Berhad: 5183.KL
+•	    IHH Healthcare Berhad: 5225.KL
+•	    Maxis Berhad: 6012.KL
+•	    Digi.Com Berhad: 6947.KL
+•	    Genting Berhad: 3182.KL
+•	    Axiata Group Berhad: 6888.KL
+
   
 Choose a Backtesting Period:
   Select one of the three available options:
-    Past Day
-    Past Week
-    Past Month
+• Past Day
+• Past Week
+• Past Month
     
 View Analysis Results:
   The program will fetch historical stock data, analyze it, and display results including:
