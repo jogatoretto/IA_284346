@@ -41,40 +41,43 @@ The project folder is structured as follows:
 3. Select a Stock Ticker:
   Type the initial letter and choose the drop-down menu to select a company ticker 
 
-•	    Top Glove Corporation Bhd: 7113.KL
+    •	        Top Glove Corporation Bhd: 7113.KL
 
-•	    Malayan Banking Berhad (Maybank): 1155.KL
+    •	        Malayan Banking Berhad (Maybank): 1155.KL
 
-•	    Public Bank Berhad: 1295.KL
+    •	        Public Bank Berhad: 1295.KL
 
-•	    CIMB Group Holdings Berhad: 1023.KL
+    •	        CIMB Group Holdings Berhad: 1023.KL
 
-•	    Petronas Chemicals Group Berhad: 5183.KL
+    •	        Petronas Chemicals Group Berhad: 5183.KL
 
-•	    IHH Healthcare Berhad: 5225.KL
+    •	        IHH Healthcare Berhad: 5225.KL
 
-•	    Maxis Berhad: 6012.KL
+    •	        Maxis Berhad: 6012.KL
 
-•	    Digi.Com Berhad: 6947.KL
+    •	        Digi.Com Berhad: 6947.KL
 
-•	    Genting Berhad: 3182.KL
+    •	        Genting Berhad: 3182.KL
 
-•	    Axiata Group Berhad: 6888.KL
+    •	        Axiata Group Berhad: 6888.KL
 
   
 4. Choose a Backtesting Period:
   Select one of the three available options:
-• Past Day
-• Past Week
-• Past Month
+
+    •     Past Day
+
+    •     Past Week
+
+    •     Past Month
     
-5. View Analysis Results:
+6. View Analysis Results:
   The program will fetch historical stock data, analyze it, and display results including:
     Average closing price.
     Percentage change.
     Highest and lowest prices.
     
-6. Save and View Data:
+7. Save and View Data:
   Results are saved automatically in user_data.csv.
   
 **You can view previously saved data by filtering it with your email.**
